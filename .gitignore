@@ -1,0 +1,19 @@
+# .gitignore
+
+# Ignore Node.js build artifacts
+node_modules/
+dist/
+
+# Ignore Vue.js build artifacts
+/dist/
+/.vite/
+
+# Ignore IDE artifacts
+.vscode/
+.idea/
+
+# Ignore log files
+*.log
+
+# Ignore Database files
+*.sqlite3
